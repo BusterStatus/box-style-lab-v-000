@@ -7,10 +7,10 @@ body, html {
   text-align: center;
 }
 
-/*img {*/
-/*  border: 1px;*/
-/*  border-style: solid;*/
-/*}*/
+img {
+  border: 1px;
+  border-style: solid;
+}
 
 .container, h1 {
   width: 80%;
